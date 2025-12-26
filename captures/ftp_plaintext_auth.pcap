@@ -1,0 +1,14 @@
+220 (vsFTPd 3.0.5)
+
+USER ftpuser
+
+331 Please specify the password.
+
+PASS testpass1234
+
+230 Login successful.
+
+SYST
+
+215 UNIX Type: L8
+421 Timeout.
